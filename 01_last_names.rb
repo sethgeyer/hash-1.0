@@ -4,5 +4,4 @@ require_relative 'people'
 
 PEOPLE.each do |key, value|
   p value[:last_name]
-
 end
